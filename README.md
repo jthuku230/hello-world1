@@ -1,2 +1,3 @@
 # hello-world1
-getting started
+Hi Humans!
+This is JT. I like python stuff
